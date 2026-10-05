@@ -13,6 +13,7 @@ Write-ups at **[noob2root.com](https://noob2root.com)**.
 |---|---|---|
 | **[ZScan](https://github.com/zebracherry/ZScan)** | Single-file network scanner with 58 embedded NSE-equivalent scripts. Air-gap safe, zero installs. | Python · PowerShell |
 | **[RHELGuard](https://github.com/zebracherry/RHELGuard)** | RHEL security audit against CIS Benchmarks and DISA STIG, plus air-gap isolation checks. | Bash · Python |
+| **[WinGuard](https://github.com/zebracherry/WinGuard)** | Windows Server audit against CIS Benchmarks, DISA STIG and the Microsoft Security Baseline, plus air-gap isolation checks. Runs non-admin. | PowerShell |
 | **[RustRecon](https://github.com/zebracherry/Rustrecon)** | OSCP-focused async recon framework — classifies a target, then runs only the relevant tool chain. | Rust |
 | **[ADReaper](https://github.com/zebracherry/ADReaper)** | Active Directory and Windows privilege-escalation recon over LDAP. Enumeration only, no exploitation. | Python |
 
